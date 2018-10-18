@@ -1,0 +1,1 @@
+This will help us to integrate TTN with Thingworx
